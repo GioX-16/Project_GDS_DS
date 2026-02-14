@@ -1,4 +1,4 @@
-# Dise-o_Project_Dise-o
+# DISEÑO - PROJECT - CLASS 
 
 ![alt text](image.png)
 
