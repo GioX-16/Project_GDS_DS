@@ -1,5 +1,6 @@
 # DISEÑO - PROJECT - CLASS 
 
-![alt text](image.png)
+![Uploading image.png…]()
+
 
 Repositorio para la clase de Diseño de sistemas
